@@ -23,7 +23,7 @@ import lombaUiUxImg from '../image/lomba_uiux.jpg';
 import oopImg from '../image/oop.jpg';
 import webImg from '../image/web.jpg';
 
-import profilePhoto from '../image/por.jpeg';
+import profilePhoto from '../image/porto.jpg';
 
 export const profile = {
   name: "Muhammad David Fawwas Olfat",
